@@ -1,6 +1,6 @@
 ### Hi there 👋, This is Tarun Kumar Sarker
 #### Professional Frontend Developer- React JS / Next JS
-![Professional Frontend Developer- React JS / Next JS](https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/431907583_122093060186251622_6300463688309607873_n.png?stp=dst-png_p960x960&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=CeIg1T2jh8EAX_zPQW7&_nc_ht=scontent.fdac8-1.fna&oh=00_AfA6ABo8Q7u3alA1SXcwt541zWNTpNx3jp0K3B4CIBV7EQ&oe=65F86F80)
+[![Professional Frontend Developer- React JS / Next JS](https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/431907583_122093060186251622_6300463688309607873_n.png?stp=dst-png_p960x960&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=CeIg1T2jh8EAX_zPQW7&_nc_ht=scontent.fdac8-1.fna&oh=00_AfA6ABo8Q7u3alA1SXcwt541zWNTpNx3jp0K3B4CIBV7EQ&oe=65F86F80)](https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/431907583_122093060186251622_6300463688309607873_n.png?stp=dst-png_p960x960&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=CeIg1T2jh8EAX_zPQW7&_nc_ht=scontent.fdac8-1.fna&oh=00_AfA6ABo8Q7u3alA1SXcwt541zWNTpNx3jp0K3B4CIBV7EQ&oe=65F86F80)
 
 I'm a Frontend Web developer with a passion for crafting elegant and intuitive user interfaces and also i'm passionate about making error-free web site 100% client satisfaction. I enjoy working with React JS and JavaScript. I pride myself on doing quality work and maintain excellent communication. Fresh code, time managment and first learn is my power. Client satisfaction is my first priority.
 

@@ -19,8 +19,7 @@ Skills: REACT / JS / HTML / CSS / Bootstrap / Tailwind CSS / NEXT
 - 📫 How to reach me: tarun.reactdev@gmail.com
 
 
-###Language and Tools
-https://www.w3.org/html/
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sarkertarun)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tarun-kumar-sarker-133271220/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vercel.svg' alt='vercel' height='40'>](https://vercel.com/tarun-sarkers-projects)  
